@@ -1,0 +1,54 @@
+# EdgeWake .gitignore
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Credentials (IMPORTANT: Never commit secrets!)
+firmware/include/config.h
+.env
+.env.local
+.env.production
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Large files
+*.mp4
+*.avi
+*.wav
+*.mp3
