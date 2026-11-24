@@ -531,3 +531,7 @@ This project is built for **Smart India Hackathon 2026**.
   <strong>Made with 💚 for India's Forests</strong><br>
   <em>Every tree saved is a future preserved 🌲</em>
 </p>
+
+---
+
+Built by [Parth Arsid](https://partharsid.dev), edge AI and full-stack engineer.
